@@ -1,7 +1,7 @@
 var express = require('express');
 var bodyParser = require('body-parser');
 var load = require('express-load');
-var localMqttClient = require('../mqtt/mqtt_local') 
+var client = require('../mqtt/mqtt') 
 
 module.exports = function(){
     var app = express();
