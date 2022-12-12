@@ -9,7 +9,7 @@
   "author": "Bruno Santos",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-load": "^1.1.16",
     "express-session": "^1.17.0",
     "mqtt": "^3.0.0",
